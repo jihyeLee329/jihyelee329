@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=90&text=Welcome&desc=jihye's%20GitHub&animation=twinkling&descSize=30&descAlignY=65)
 
 <div align="left">
-<span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></span>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
 <span>🙎 Jihye Lee  |  💻 Front-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
 <br>
 <br>
@@ -32,9 +32,7 @@
  <img src="http://github-readme-streak-stats.herokuapp.com?user=jihyelee329&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF9E08&stroke=FFFFFF&background=20232A" width=450/>
 
  <!-- total commit && etc. -->
-
-
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=jihyelee329&show_icons=true&count_private=true&bg_color=20232A&title_color=FF9A00&text_color=ffffff&icon_color=98E0AD&locale=kr&disable_animations=true&include_all_commits=true" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=jihyelee329&show_icons=true&count_private=true&bg_color=20232A&title_color=FF9A00&text_color=ffffff&icon_color=98E0AD&disable_animations=true&include_all_commits=true&count_private=true&line_height=37&hide=stars,contribs" />
 
   <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
