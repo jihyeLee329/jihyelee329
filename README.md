@@ -21,9 +21,24 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=jihyelee329&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=FF9E08&stroke=FFFFFF&background=20232A" width=450/>
+ </div>
+  
+ <!-- total commit && etc. -->
+ <div align=center>
+  <img align="left" width=450 src="https://github-readme-stats.vercel.app/api?username=jihyelee329&show_icons=true&count_private=true&bg_color=20232A&title_color=FF9A00&text_color=ffffff&icon_color=98E0AD&locale=kr&disable_animations=true" />
+ </div>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=450 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyelee329&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</p>
 
-
-### Hi there 👋
 
 <!--
 **jihyeLee329/jihyelee329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
